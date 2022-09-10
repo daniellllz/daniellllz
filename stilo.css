@@ -1,4 +1,12 @@
 P{
+body{
+
+
+
+
+}
+
+
     color:blue ;
 
 }
@@ -10,7 +18,9 @@ text-align: center;
 
 .pipoca {
     color:brown
-
+body{
+    blueviolet
+}
 
 }
 
@@ -18,11 +28,12 @@ text-align: center;
 p{
     h1{
         color= yellow;
-        border= 2px solid salmon
-        background-color: text-rendering: red;;
+        border= 2px solid salmom
+        background-color: text-rendering: ;
     }
    #paodequeijo{
-    
+
+
    }
 
 }
