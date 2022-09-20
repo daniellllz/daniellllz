@@ -1,0 +1,26 @@
+.div1 {
+    float: left;
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+    border: 3pix solid green;
+
+}
+
+.div2 {
+    border: 1px solid red;
+
+}
+
+.div3 {
+    float: left;
+    width: 100px;
+    height: 50;
+    border: 1px solid green;
+    margin: 10px
+}
+
+.div4 {
+    border: 1px solid red;
+    clear: left;
+}

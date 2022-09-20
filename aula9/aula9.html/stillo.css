@@ -1,0 +1,99 @@
+.section1 {
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+
+.section2 {
+    width: 300px;
+    height: 200px;
+    padding: 50px;
+    border: 1px solid blue;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #444401;
+    color: #f1f1f1;
+    font-family: Arial, Verdana, sans-serif;
+}
+
+h1 {
+    background-color: #ffcc00;
+    color: black;
+    text-align: center;
+    line-height: 200%;
+    font-family: Georgia, “Times New Roman”, serif;
+    padding: 0.5em;
+}
+
+img {
+    alt: "Tropical Island";
+    height: 240px;
+    width: 320px;
+}
+
+figure {
+    width: 320px;
+    padding: 5px;
+    border: 2px solid #000000;
+}
+
+figcaption {
+    text-align: center;
+    font-family: Papyrus, fantasy;
+}
+
+footer {
+    color: #333333;
+    font-size: .75em;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+* {
+    margin: 10;
+    padding: 15;
+   }
+   body {
+    margin: 20;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    color: #333;
+    line-height: 1.6;
+   }
+   body {
+    background-color: #f4f4f4;
+    color: #555555;
+    font: normal 16px Arial, Helvetica, sans-serif;
+    line-height: 1.6em;
+    margin: 0;
+}
+a {
+    text-decoration: none;
+    color: black;
+   }
+   .container {
+    width: 80%;
+    margin: 20px 30px;
+   }
+   p {
+    color: red;
+}
+
+.ex1 {
+    display: none;
+
+}
+
+.ex2{
+    display: inline;
+}
+
+.ex3{
+    display: block;
+}
+
+.ex4{
+    display: inline-block;
+    
+}
