@@ -1,0 +1,20 @@
+*{
+    background-color: aliceblue;
+font-family: 'Rajdhani',sans-serif;
+
+}
+
+header{
+background-color: #64ea7;
+text-align: center;
+border: 2px #a19e9e solid;
+
+}
+table{
+    border: 2px #000000 solid;
+}
+th{
+    color:#0bceb7;
+    background-color: black;
+    font-size: bold;
+}
